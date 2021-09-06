@@ -1,0 +1,26 @@
+
+
+1.Login to RCDev connect web app using below link 
+https://rcdev.connect.phealth-dev.net/
+
+Credentials : superadmin@tektonlabs.com/MDIpass2015
+
+2.Click on Mass notifications tab
+3. Click on Send Message button
+4. Click on Mass notifications
+5.Select Cary 
+6.Select Everyone 
+7.Click on Next button
+8.Enter text in Type the message below 
+9. Click on Send Message button 
+
+Expected Result:
+Message should be sent successfully.
+Success Message :
+'Your message is sent successfully'
+
+Actual Result:
+Error Message 
+Unknown error. No message was sent
+
+Attached Screenshot
