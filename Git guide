@@ -1,0 +1,23 @@
+	Git status
+	Git add . 
+	Git commit -am 'add comments here'
+	Git push origin <your branch>
+	Git checkout master
+	Git pull
+	Git checkout <branch name> 
+	Git merge master
+
+If conflict arise resolve it through vs code.
+
+Click on Pull Requests under Bit Bucket
+Select the Branch 	<your Branch>
+
+
+git
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+
+git proficient
+https://proficienthealth.atlassian.net/wiki/spaces/DEV/pages/271581227/How+to+use+GIT+with+Proficient+projects
+
+git add and remove commands are used for adding the origin and removing the origin
+
